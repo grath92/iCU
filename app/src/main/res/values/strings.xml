@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iCU</string>
+
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="go">GO</string>
+    <string name="nxt">NEXT</string>
+    <string name="username">Username</string>
+    <string name="passwd">Password</string>
+    <string name="reptpasswd">Repeat Password</string>
+    <string name="str_forgt_passwd">Forgot your Password?</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
